@@ -80,7 +80,6 @@ namespace CodeAdvent2021
             }
             return false;
         }
-
-
     }
+
 }

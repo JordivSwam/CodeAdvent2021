@@ -6,8 +6,6 @@ namespace CodeAdvent2021
 {
     class Program
     {
-        
-
         static void Main(string[] args)
         {
             int DayNumber = 2;
@@ -15,7 +13,7 @@ namespace CodeAdvent2021
             bool UseOverwrite = false;
             string UserResponse;
 
-            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2() };
+            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2(), new Day3() };
 
             if (UseOverwrite)
             {
