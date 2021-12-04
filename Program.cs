@@ -13,7 +13,7 @@ namespace CodeAdvent2021
             bool UseOverwrite = false;
             string UserResponse;
 
-            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2(), new Day3() };
+            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2(), new Day3(), new Day4() };
 
             if (UseOverwrite)
             {
