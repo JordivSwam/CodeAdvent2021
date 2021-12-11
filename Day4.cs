@@ -154,7 +154,6 @@ namespace CodeAdvent2021
                         {
                             BingoNumbers.Add(int.Parse(number));
                         }
-
                     }
                     else if (Line != "")
                     {

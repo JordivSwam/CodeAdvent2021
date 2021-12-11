@@ -8,12 +8,12 @@ namespace CodeAdvent2021
     {
         static void Main(string[] args)
         {
-            int DayNumber = 5;
-            int PartNumber = 2;
+            int DayNumber = 9;
+            int PartNumber = 1;
             bool UseOverwrite = true;
             string UserResponse;
 
-            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2(), new Day3(), new Day4(), new Day5() };
+            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2(), new Day3(), new Day4(), new Day5(), new Day6(), new Day7(), new Day8(), new Day9() };
 
             if (UseOverwrite)
             {
