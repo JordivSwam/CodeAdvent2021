@@ -90,7 +90,7 @@ namespace CodeAdvent2021
                     }
                 }
                 awnser = one * two * three;
-                Console.WriteLine("The awnser to day 9 part 1 is: " + awnser);
+                Console.WriteLine("The awnser to day 9 part 2 is: " + awnser);
                 return true;
             }
             return false;
@@ -150,7 +150,7 @@ namespace CodeAdvent2021
             }
         }
 
-                public bool IsLowPoint(int x, int y)
+        public bool IsLowPoint(int x, int y)
         {
             int num = heightmap[x][y];
             int checkX = x - 1;

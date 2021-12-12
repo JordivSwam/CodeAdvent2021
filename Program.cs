@@ -8,12 +8,12 @@ namespace CodeAdvent2021
     {
         static void Main(string[] args)
         {
-            int DayNumber = 9;
+            int DayNumber = 10;
             int PartNumber = 2;
             bool UseOverwrite = true;
             string UserResponse;
 
-            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2(), new Day3(), new Day4(), new Day5(), new Day6(), new Day7(), new Day8(), new Day9() };
+            List<DayBase> Days = new List<DayBase>() { new Day1(), new Day2(), new Day3(), new Day4(), new Day5(), new Day6(), new Day7(), new Day8(), new Day9(), new Day10() };
 
             if (UseOverwrite)
             {
@@ -36,6 +36,8 @@ namespace CodeAdvent2021
                         Console.WriteLine("Please enter a valid number");
                     else if (DayNumber > Days.Count)
                         Console.WriteLine("Sorry, that day is not implemented yet :(");
+                    else if (DayNumber < 1)
+                        Console.WriteLine("Must enter a number greater then 0");
                     else
                         ValidInput = true;
                 }
