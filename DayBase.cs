@@ -40,3 +40,41 @@ namespace CodeAdvent2021
 
     }
 }
+
+
+//Day template
+
+
+//public override bool RunPart1()
+//{
+//    if (LoadInput())
+//    {
+//        int awnser = 0;
+//        Console.WriteLine("The awnser to day X part 1 is: " + awnser);
+//        return true;
+//    }
+//    return false;
+//}
+
+//public override bool RunPart2()
+//{
+//    if (LoadInput())
+//    {
+//        int awnser = 0;
+//        Console.WriteLine("The awnser to day X part 2 is: " + awnser);
+//        return true;
+//    }
+//    return false;
+//}
+//public override bool LoadInput()
+//{
+//    if (base.LoadInput())
+//    {
+//        while (!MyFileStream.EndOfStream)
+//        {
+
+//        }
+//        return true;
+//    }
+//    return false;
+//}
