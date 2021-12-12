@@ -9,7 +9,7 @@ namespace CodeAdvent2021
         static void Main(string[] args)
         {
             int DayNumber = 9;
-            int PartNumber = 1;
+            int PartNumber = 2;
             bool UseOverwrite = true;
             string UserResponse;
 
