@@ -30,3 +30,19 @@ C:\GithubProjects\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.dll
 C:\GithubProjects\CodeAdvent2021\obj\Debug\net5.0\ref\CodeAdvent2021.dll
 C:\GithubProjects\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.pdb
 C:\GithubProjects\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.genruntimeconfig.cache
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\bin\Debug\net5.0\CodeAdvent2021.exe
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\bin\Debug\net5.0\CodeAdvent2021.deps.json
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\bin\Debug\net5.0\CodeAdvent2021.runtimeconfig.json
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\bin\Debug\net5.0\CodeAdvent2021.runtimeconfig.dev.json
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\bin\Debug\net5.0\CodeAdvent2021.dll
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\bin\Debug\net5.0\ref\CodeAdvent2021.dll
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\bin\Debug\net5.0\CodeAdvent2021.pdb
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.csprojAssemblyReference.cache
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.AssemblyInfoInputs.cache
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.AssemblyInfo.cs
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.csproj.CoreCompileInputs.cache
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.dll
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\ref\CodeAdvent2021.dll
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.pdb
+D:\Users\Jordi van Swam\Documents\GitHub\CodeAdvent2021\obj\Debug\net5.0\CodeAdvent2021.genruntimeconfig.cache

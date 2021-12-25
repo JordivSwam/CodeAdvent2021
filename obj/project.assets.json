@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jordi\\.nuget\\packages\\": {}
+    "C:\\Users\\Jordi van Swam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GithubProjects\\CodeAdvent2021\\CodeAdvent2021.csproj",
+      "projectUniqueName": "D:\\Users\\Jordi van Swam\\Documents\\GitHub\\CodeAdvent2021\\CodeAdvent2021.csproj",
       "projectName": "CodeAdvent2021",
-      "projectPath": "C:\\GithubProjects\\CodeAdvent2021\\CodeAdvent2021.csproj",
-      "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-      "outputPath": "C:\\GithubProjects\\CodeAdvent2021\\obj\\",
+      "projectPath": "D:\\Users\\Jordi van Swam\\Documents\\GitHub\\CodeAdvent2021\\CodeAdvent2021.csproj",
+      "packagesPath": "C:\\Users\\Jordi van Swam\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Jordi van Swam\\Documents\\GitHub\\CodeAdvent2021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jordi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jordi van Swam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
